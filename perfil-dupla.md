@@ -1,14 +1,7 @@
-# Perfil da Dupla
+# Meu perfil
 
-## Nome da dupla
-(Kauã e Alice)
-
-## Cor favorita da dupla
-(Rosa)
-
-## Comida favorita da dupla
-(Sushi)
-
-## Frase da dupla
-(Saboor energético)
-
+- Nome: Alice
+- Idade:16
+- Hobby:moda
+- Música favorita:fancy - iggy azalea, charlixcx
+- Profissão dos sonhos:designeer
